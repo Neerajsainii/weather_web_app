@@ -9,6 +9,7 @@
   "author": "Neeraj Saini",
   "license": "ISC",
   "dependencies": {
-    "requests": "^0.3.0"
+    "requests": "^0.3.0",
+    "validator": "^13.11.0"
   }
 }
